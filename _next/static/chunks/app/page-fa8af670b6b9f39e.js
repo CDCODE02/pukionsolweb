@@ -832,7 +832,7 @@
               " flex cursor-pointer max-w-[1440px] mx-auto items-center lg:gap-8 gap-6  justify-center py-[30px] lg:py-[55px] px-[26px]",
             children: [
               (0, l.jsx)("a", {
-                href: "https://t.me/pukionsol",
+                href: "https://t.me/Pukionsolana",
                 target: "_blank",
                 className:
                   "bg-white/5 lg:w-[100px] w-[80px] flex items-center aspect-square justify-center  hover:scale-110 transition-all duration-300 p-4 lg:rounded-[22px] rounded-md",
@@ -858,7 +858,7 @@
                 }),
               }),
               (0, l.jsx)("a", {
-                href: "https://dexscreener.com/solana/GwjR1knoW4KMcBGPKrURwvntqUyRenoaF4YyzwR8VYoy",
+                href: "https://dexscreener.com/solana/8VzZHedmTTWCMhsKuyaJ4ppHPb9rwgx7a4DwhfBv9Tak",
                 target: "_blank",
                 children: (0, l.jsx)("div", {
                   className:
@@ -872,7 +872,7 @@
                 }),
               }),
               (0, l.jsx)("a", {
-                href: "https://www.dextools.io/app/en/solana/pair-explorer/GwjR1knoW4KMcBGPKrURwvntqUyRenoaF4YyzwR8VYoy?t=1715966314296&__cf_chl_rt_tk=bqyKu3FHvfxyzTLonEuzQb5feJmTQKBufRb.Ql7xd9Q-1715980132-0.0.1.1-1493",
+                href: "https://www.dextools.io/app/en/solana/pair-explorer/8VzZHedmTTWCMhsKuyaJ4ppHPb9rwgx7a4DwhfBv9Tak?t=1719509426783",
                 target: "_blank",
                 children: (0, l.jsx)("div", {
                   className:
