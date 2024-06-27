@@ -194,7 +194,7 @@
                   children: "About",
                 }),
                 (0, l.jsx)("a", {
-                  href: "https://dexscreener.com/solana/GwjR1knoW4KMcBGPKrURwvntqUyRenoaF4YyzwR8VYoy",
+                  href: "https://raydium.io/swap/?outputMint=GwjR1knoW4KMcBGPKrURwvntqUyRenoaF4YyzwR8VYoy&inputMint=sol",
                   target: "_blank",
                   children: (0, l.jsx)(g.E.li, {
                     variants: c,
@@ -313,7 +313,7 @@
                     children: "The baddest bear on the block (chain)",
                   }),
                   (0, l.jsx)("a", {
-                    href: "https://dexscreener.com/solana/GwjR1knoW4KMcBGPKrURwvntqUyRenoaF4YyzwR8VYoy",
+                    href: "https://raydium.io/swap/?outputMint=GwjR1knoW4KMcBGPKrURwvntqUyRenoaF4YyzwR8VYoy&inputMint=sol",
                     target: "_blank",
                     children: (0, l.jsx)("button", {
                       className:
@@ -657,7 +657,7 @@
                 children: "Get Wild with PUKI",
               }),
               (0, l.jsx)("a", {
-                href: "https://dexscreener.com/solana/GwjR1knoW4KMcBGPKrURwvntqUyRenoaF4YyzwR8VYoy",
+                href: "https://raydium.io/swap/?outputMint=GwjR1knoW4KMcBGPKrURwvntqUyRenoaF4YyzwR8VYoy&inputMint=sol",
                 target: "_blank",
                 children: (0, l.jsx)("button", {
                   className:
@@ -795,7 +795,7 @@
                             o ? "left-[]" : "left-0"
                           ),
                         children: (0, l.jsx)("a", {
-                          href: "https://dexscreener.com/solana/GwjR1knoW4KMcBGPKrURwvntqUyRenoaF4YyzwR8VYoy",
+                          href: "https://raydium.io/swap/?outputMint=GwjR1knoW4KMcBGPKrURwvntqUyRenoaF4YyzwR8VYoy&inputMint=sol",
                           target: "_blank",
                           children: (0, l.jsx)("span", {
                             className: "menuli",
