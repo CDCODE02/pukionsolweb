@@ -72,14 +72,6 @@
                     className:
                       "relative z-10 vlg:w-[500px]  lg:w-[300px] lg:aspect-square",
                   }),
-                  (0, l.jsx)(n.default, {
-                    src: "/eye.png",
-                    width: 200,
-                    height: 200,
-                    alt: "eye",
-                    className:
-                      "absolute lg:w-[300px] vlg:w-[500px] lg:aspect-square ",
-                  }),
                 ],
               }),
               (0, l.jsx)("button", {
