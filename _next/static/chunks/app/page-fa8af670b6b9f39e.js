@@ -281,7 +281,7 @@
                 className:
                   " absolute right-[-55%] md:right-[-25px] opacity-100 md:w-[65%] lg:w-[60%]   p-5  w-[171%] bottom-[-15px] ] ",
                 children: (0, l.jsx)(n.default, {
-                  src: "/teddy.svg",
+                  src: "https://pukionsol.xyz/teddy.svg",
                   width: 940,
                   height: 940,
                   alt: "puki",
@@ -303,7 +303,7 @@
                       (0, l.jsx)("p", {
                         className:
                           "lg:text-[190px] md:text-[140px] text-[110px] leading-[87%] text-[#FFB500]",
-                        children: "pukionsol",
+                        children: "pukionsolcto",
                       }),
                     ],
                   }),
@@ -342,7 +342,7 @@
                           }),
                           (0, l.jsx)(n.default, {
                             alt: "copy",
-                            src: "/copy.svg",
+                            src: "https://pukionsol.xyz/copy.svg",
                             width: 40,
                             height: 40,
                             className: " cursor-pointer ",
@@ -837,7 +837,7 @@
                 className:
                   "bg-white/5 lg:w-[100px] w-[80px] flex items-center aspect-square justify-center  hover:scale-110 transition-all duration-300 p-4 lg:rounded-[22px] rounded-md",
                 children: (0, l.jsx)(n.default, {
-                  src: "/telegram.svg",
+                  src: "https://pukionsol.xyz/telegram.svg",
                   width: 50,
                   height: 50,
                   alt: "telegram",
@@ -850,7 +850,7 @@
                   className:
                     "bg-white/5 lg:w-[100px] w-[80px] flex items-center aspect-square justify-center hover:scale-110 transition-all duration-300 lg:rounded-[22px] rounded-md",
                   children: (0, l.jsx)(n.default, {
-                    src: "/x.svg",
+                    src: "https://pukionsol.xyz/x.svg",
                     width: 50,
                     height: 50,
                     alt: "x",
@@ -864,7 +864,7 @@
                   className:
                     "bg-white/5 lg:w-[100px] w-[80px] flex items-center aspect-square justify-center hover:scale-110 transition-all duration-300 lg:rounded-[22px] rounded-md",
                   children: (0, l.jsx)(n.default, {
-                    src: "/dex.svg",
+                    src: "https://pukionsol.xyz/dex.svg",
                     width: 50,
                     height: 50,
                     alt: "sc",
@@ -878,7 +878,7 @@
                   className:
                     "bg-white/5 lg:w-[100px] w-[80px] flex items-center aspect-square justify-center hover:scale-110 transition-all duration-300 lg:rounded-[22px] rounded-md",
                   children: (0, l.jsx)(n.default, {
-                    src: "/ss.svg",
+                    src: "https://pukionsol.xyz/ss.svg",
                     width: 40,
                     height: 40,
                     alt: "sc",
