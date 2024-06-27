@@ -555,7 +555,7 @@
                           ],
                         }),
                         (0, l.jsx)(n.default, {
-                          src: "/process1.svg",
+                          src: "https://pukionsol.xyz/process1.svg",
                           width: 490,
                           height: 312,
                           alt: "eye",
@@ -588,7 +588,7 @@
                           ],
                         }),
                         (0, l.jsx)(n.default, {
-                          src: "/process2.svg",
+                          src: "https://pukionsol.xyz/process2.svg",
                           width: 490,
                           height: 312,
                           alt: "eye",
@@ -628,7 +628,7 @@
                         (0, l.jsx)("div", {
                           className: "bg-[#F5A435] rounded-[11px]",
                           children: (0, l.jsx)(n.default, {
-                            src: "/process3.svg",
+                            src: "https://pukionsol.xyz/process3.svg",
                             width: 490,
                             height: 312,
                             alt: "eye",
@@ -687,14 +687,14 @@
                     className: "flex relative justify-center ",
                     children: [
                       (0, l.jsx)(n.default, {
-                        src: "/sol.png",
+                        src: "https://pukionsol.xyz/_next/image?url=%2Fsol.png&w=96&q=75",
                         width: 38,
                         height: 38,
                         alt: "sol",
                         className: "relative rounded-full",
                       }),
                       (0, l.jsx)(n.default, {
-                        src: "/footer.png",
+                        src: "/pukiface.avif",
                         width: 40,
                         height: 40,
                         alt: "puki",
